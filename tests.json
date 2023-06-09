@@ -1,0 +1,9 @@
+{
+	"tests": [
+		{
+			"test_case": "basic",
+			"email": "celo.tester@celohealth.com",
+			"password": "test123"
+		}
+	]
+}
