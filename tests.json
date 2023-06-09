@@ -8,7 +8,8 @@
 		{
 			"test_case": "basic2",
 			"email": "celo.tester@celohealth.com",
-			"password": "test123"
+			"password": "test123",
+			"disabled": true
 		}
 	]
 }
