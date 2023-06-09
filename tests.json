@@ -4,6 +4,11 @@
 			"test_case": "basic",
 			"email": "celo.tester@celohealth.com",
 			"password": "test123"
+		},
+		{
+			"test_case": "basic2",
+			"email": "celo.tester@celohealth.com",
+			"password": "test123"
 		}
 	]
 }
